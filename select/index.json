@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BIZARRE",
+  "base_artist": "the GazettE",
+  "createdAt": "2026-03-18T15:31:41.921269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Pageant of the Bizarre",
+      "artist": "Zero 7",
+      "has_synced": true,
+      "path": "select/01_The_Pageant_of_the_Bizarre_Zero_7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_Bizarre_Love_Triangle_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/03_Bizarre_Love_Triangle_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Extended Dance Mix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_Bizarre_Love_Triangle_(Extended_Dance_Mix)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Live)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_Bizarre_Love_Triangle_(Live)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (7\" Remix Edit)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/06_Bizarre_Love_Triangle_(7__Remix_Edit)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Too Bizarre (with Swae Lee & Siiickbrain)",
+      "artist": "Skrillex feat. Swae Lee & Siiickbrain",
+      "has_synced": true,
+      "path": "select/07_Too_Bizarre_(with_Swae_Lee_&_Siiickbrain)_Skrillex_feat._Swae_Lee_&_Siiickbrain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Too Bizarre",
+      "artist": "Skrillex, Swae Lee, & Siiickbrain",
+      "has_synced": true,
+      "path": "select/08_Too_Bizarre_Skrillex,_Swae_Lee,_&_Siiickbrain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Le beau bizarre",
+      "artist": "Christophe feat. Arthur Teboul",
+      "has_synced": true,
+      "path": "select/09_Le_beau_bizarre_Christophe_feat._Arthur_Teboul.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Le Beau Bizarre",
+      "artist": "Christophe Feat. Arthur",
+      "has_synced": true,
+      "path": "select/10_Le_Beau_Bizarre_Christophe_Feat._Arthur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ocean Bizarre",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/11_Ocean_Bizarre_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Club Bizarre",
+      "artist": "Brooklyn Bounce",
+      "has_synced": false,
+      "path": "select/12_Club_Bizarre_Brooklyn_Bounce.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Club Bizarre (Tomcraft Remix)",
+      "artist": "Brooklyn Bounce",
+      "has_synced": false,
+      "path": "select/13_Club_Bizarre_(Tomcraft_Remix)_Brooklyn_Bounce.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle",
+      "artist": "Desire",
+      "has_synced": true,
+      "path": "select/14_Bizarre_Love_Triangle_Desire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Acapella)",
+      "artist": "Desire",
+      "has_synced": false,
+      "path": "select/15_Bizarre_Love_Triangle_(Acapella)_Desire.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bizarre Love Triangle (Dirty Disco Edit)",
+      "artist": "Desire",
+      "has_synced": false,
+      "path": "select/16_Bizarre_Love_Triangle_(Dirty_Disco_Edit)_Desire.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bizarre",
+      "artist": "Vive La Fête",
+      "has_synced": false,
+      "path": "select/17_Bizarre_Vive_La_Fête.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BIZARRE",
+      "artist": "the GazettE",
+      "has_synced": false,
+      "path": "select/pl_01_BIZARRE_the_GazettE.txt"
+    }
+  ]
+}
